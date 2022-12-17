@@ -1,13 +1,3 @@
-# Animal-Escape
-
-## Staff
-
-Jay Shin: Game Designer
-
-Elliot Terner: Asset Manager
-
-Max Aguirre: Product Owner
-
 ## About the Game
 
 Animal Escape is a TPS Survival game where a user picked animal has to defeat several waves of humans. The number of humans that the animal is fighting increases with each level.
